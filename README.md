@@ -1,4 +1,4 @@
-# Clash屏蔽抖音与快手规则 Clash rules block tiktok and kwai services (Only the Chinese version is works)
+# Clash屏蔽抖音与快手规则 Clash rules block tiktok and kwai services (Only supports the Chinese version)
 
 使用此规则可以屏蔽快手与抖音服务
 
