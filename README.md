@@ -1,8 +1,4 @@
-# Clash屏蔽快手与抖音规则
-
-# Clash block kwai and Tiktok services (Only the Chinese version is works)
-
----------
+# Clash屏蔽抖音与快手规则 Clash rules block tiktok and kwai services (Only the Chinese version is works)
 
 使用此规则可以屏蔽快手与抖音服务
 
@@ -13,8 +9,6 @@
 This rules can block Kwai and Tiktok services (Only the Chinese version is works)
 
 You can use this rule in the clash service on the router, so that Kwai and Tiktok cannot be accessed in the LAN
-
-
 
 ## 效果 After enabling the rule
 
@@ -27,8 +21,6 @@ You can use this rule in the clash service on the router, so that Kwai and Tikto
 其他功能如个人主页等可正常访问，视频无限缓冲状态
 
 The video is always buffered, other things such as the personal homepage can be accessed normally
-
-
 
 ### 快手 Kwai
 
